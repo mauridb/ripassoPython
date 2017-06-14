@@ -1,0 +1,15 @@
+PRO:
+- substitute to bash to script something
+- easy to read and write 
+- only pay attention at indent
+- non tipizzato
+- pip è il package manager
+
+
+
+VIRTUAL ENVIRONMENT utilizzo il python che sto voglio 
+poi lo attivo con il comando
+$ source env/bin/activate
+se faccio which python mi dice quale python sto utilizzando
+
+evito il conflitto delle dipendenze utilizzando macchine virtuali differenti per ogni applicazione
